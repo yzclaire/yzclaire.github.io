@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Yuanhong(Claire) Zhang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/yhz_bio_pic.png"
+  bio    : "Claire's way: explore the unknonws in data, try(make) a new cuisine, go visit a new place, and always keep smiling."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
