@@ -11,7 +11,7 @@ tags:
 # NBA_Front_Office_Optimization
 Optimizing basketball team performance under a salary cap
 
-## Project Link
+[Project Link](https://yzclaire.github.io/NBA_Front_Office_Optimization/)
 
 ## Project Goal
 Optimize NBA salary cap allocation for a NBA franchise to maximize team performance (winning games) subject to budget constraints imposed by the salary cap.
@@ -42,6 +42,3 @@ Chances of winnings is a variable that we concern. For people who are familar wi
 Player salary data: https://www.basketball-reference.com/contracts/players.html 
 
 Player performance data: https://www.basketball-reference.com/leagues/NBA_2019_advanced.html
-
-
-
