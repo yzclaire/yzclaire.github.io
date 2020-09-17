@@ -1,6 +1,6 @@
 ---
 title: "NYC Taxi Fare Analysis and Prediction"
-date: 2020-09-15
+date: 2019-09-28
 categories:
   - blog
 tags:
